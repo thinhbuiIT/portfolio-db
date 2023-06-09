@@ -1,0 +1,18 @@
+{
+    "user": [
+        {
+            "name": "Bui Quoc Thinh",
+            "address": "HCM",
+            "age": "21",
+            "cv": "",
+            "email": "asdkasldasdas@gmail.com",
+            "first_name": "Bui",
+            "job": "Front end developer",
+            "last_name": "Quoc Thinh",
+            "nationality": "Viet Nam",
+            "password": "admin",
+            "phone": "012312312312",
+            "username": "admmin"
+        }
+    ]
+}
